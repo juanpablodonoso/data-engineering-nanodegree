@@ -1,0 +1,8 @@
+Query           Count          
+staging_songs   14896          
+staging_events  8056           
+songplays       333            
+users           104            
+artists         10025          
+time            333            
+songs           14896          
